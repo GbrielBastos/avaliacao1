@@ -1,0 +1,15 @@
+h2{
+    font-size:30px;
+    font-family: Arial;
+}
+h1{
+    font-size: 60px;
+    font-family: Arial;
+    color:olivedrab;
+    background-color: black;
+
+}
+p{
+    font-size: 20px;
+}
+body{ background-color: paleturquoise;}
